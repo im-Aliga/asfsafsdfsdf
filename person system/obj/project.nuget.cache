@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LAWcuHPDc/rPRlaRu0xbYwNfOVkEfkt8bi0lZ+OA5wA5gbSV046Df2h9798yH1ytmOR1O60clRr2P64dr/uotQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\person system\\person system\\person system.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
